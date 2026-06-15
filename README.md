@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome here.<br><br>
+Hi there!<br><br>
 This is where I keep the projects I’m working on, the ideas I’m testing, and the tools I build to solve problems or understand things better.<br><br>
 Mostly web apps, backend tools, automation scripts, AI experiments, and occasional math detours.
 
