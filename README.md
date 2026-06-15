@@ -1,16 +1,16 @@
-# 💫 About Me
+## About Me
 
 Welcome here.<br><br>
 This is where I keep the projects I’m working on, the ideas I’m testing, and the tools I build to solve problems or understand things better.<br><br>
 Mostly web apps, backend tools, automation scripts, AI experiments, and occasional math detours.
 
-## 🌐 Links
+## Links
 
 [![Website](https://img.shields.io/badge/Website-tomdupont.fr-2ea44f?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://tomdupont.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-TomDupont72-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TomDupont72)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tom--dupont-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tom-dupont-103442220/)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
@@ -48,7 +48,3 @@ Mostly web apps, backend tools, automation scripts, AI experiments, and occasion
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge\&logo=eslint\&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge\&logo=sonarqube\&logoColor=4E9BCD)
-
-# 📊 GitHub
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TomDupont72\&theme=tokyonight\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
