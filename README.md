@@ -8,7 +8,7 @@ Mostly web apps, backend tools, automation scripts, AI experiments, and occasion
 
 [![Website](https://img.shields.io/badge/Website-tomdupont.fr-2ea44f?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://tomdupont.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-TomDupont72-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TomDupont72)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tom--dupont-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/tom-dupont)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tom--dupont-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/tom-dupont](https://www.linkedin.com/in/tom-dupont-103442220/))
 [![Email](https://img.shields.io/badge/Email-tomdupont72%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tomdupont72@gmail.com)
 
 # 💻 Tech Stack
