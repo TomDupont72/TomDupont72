@@ -10,7 +10,7 @@ Mostly web apps, backend tools, automation scripts, AI experiments, and occasion
 [![GitHub](https://img.shields.io/badge/GitHub-TomDupont72-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TomDupont72)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tom--dupont-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tom-dupont-103442220/)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
